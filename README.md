@@ -1,1 +1,1 @@
-# Kelvin-Kraner
+# Kelvin-Kraner (Adaptation to mobile devices)
